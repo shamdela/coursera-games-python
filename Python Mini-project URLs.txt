@@ -1,0 +1,9 @@
+Mini Project - Week 0 =  http://www.codeskulptor.org/#save2_cu1XDkrvDe.py
+Mini Project - Week 1 RPSLS =  http://www.codeskulptor.org/#save2_VZps8mJrQg.py
+Mini Project - Week 2 Guess the number =  http://www.codeskulptor.org/#save2_HLGUTgMd7c.py
+Mini Project - Week 3 Stopwatch: The Game = http://www.codeskulptor.org/#save2_ET5PZwr99W.py
+Mini Project - Week 4 Pong = http://www.codeskulptor.org/#save2_5SwESMzGxV.py
+Mini Project - Week 5 Memory = http://www.codeskulptor.org/#save2_GMqOCAJC3V.py
+Mini Project - Week 6 Blackjack = http://www.codeskulptor.org/#user31_J8jUoTmqYd_0.py
+Mini Project - Week 7 Spaceship = http://www.codeskulptor.org/#user32_fOn8wNu0H9_0.py
+Mini Project - Week 8 RiceRocks = http://www.codeskulptor.org/#user33_UPDtsXPBTd4Boo2.py
